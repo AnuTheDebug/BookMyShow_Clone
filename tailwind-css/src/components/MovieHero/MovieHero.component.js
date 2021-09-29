@@ -30,31 +30,16 @@ alt="poster"
 className="h-full w-full rounded-xl"
 />
 </div>
-
-
-
+<div className="absolute z-30 w-520px h-96 left-32px top-10">
+  <h1 className="text-white text-xl font-bold">SHANG-CHI</h1>
+    </div>
    <img
      src="https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/shang-chi-and-the-legend-of-the-ten-rings-et00122566-24-08-2021-02-01-36.jpg"
      alt="poster"
      className="w-full h-full"
     />
-   </div>
-   <div className="absolute z-30 w-520px h-96 left-32px top-10">
-  <h1 className="text-white text-xl font-bold">SHANG-CHI</h1>
-  <div>
-    <span className="text-white text-lg font-Roboto left-4px h-1.33 w-1.33">20K</span>
-    <span className="text-white text-sm font-Roboto height-1.5 padding-2px 0px 0px 8px">are interested</span>
-    </div>
-    </div>
     
-    <div >
-    <div >
-      <span className="text-white text-sm font-Robot">In cinemas</span>
-      <span className="text-white text-sm font-Robot">Mark interested to know when bookings open</span>
-      </div>
-      <button className="CommonContainers__ButtonComponent-sc-8f9mtj-0 CommonContainers__CtaComponent-sc-8f9mtj-1 styles__Cta-sc-meewg8-8 eEDrDy">
-        <span>I'm interested</span>
-      </button></div>
+   </div>
    
     </>
   )
